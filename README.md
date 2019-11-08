@@ -4,8 +4,11 @@ An R Shiny App presenting housing price data from Lisbon scraped from Casa Sapo 
 Link to the app: https://tinyurl.com/yyeek75o
 
 Files:
+
 -HousingLisbonScraper: ScraPy program, holds the scraper & the scraped files in csv format
+
 -HousingLisbonShiny.R: R script for the Shiny App
+
 -HousingLisbon_Project_SapoData.ipynb: Data preprocessing file
 
 
